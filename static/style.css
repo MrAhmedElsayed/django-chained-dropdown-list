@@ -1,0 +1,19 @@
+* {
+  font-family: "Amiri", serif;
+}
+
+#arabic-icon {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+}
+
+.loader-container {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 500px;
+}
+
+#display_image {
+  border-radius: 10px;
+}
